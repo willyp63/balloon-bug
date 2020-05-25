@@ -1,4 +1,4 @@
-# Balloon Bug
+# Balloon Bug ([click here to play](https://balloon-bug.herokuapp.com/))
 
 ## Gameplay
 
